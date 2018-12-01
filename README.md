@@ -1,17 +1,17 @@
-# Mycroft Skills Repo
+# Mycroft 技能仓
 ![logo](https://avatars1.githubusercontent.com/u/14171097?v=4&s=200 "Logo")
 
-# Welcome
+# 欢迎
 
-The official home of **Skills** for the Mycroft ecosystem.  These **Skills** are written by both the MycroftAI team and others within the Community.
+Mycroft生态系统**技能**的官方主页。 这些**技能**由MycroftAI团队和社区内的其他人员编写。
 
-# Meta Editor
+# 元编辑器
 
-If you are building **Skills**, please ensure that you use the [Meta Editor](https://raw.githack.com/MycroftAI/mycroft-skills/18.08/meta_editor.html) for your README.md file. The **Skills** list is generated from parsing the README.md files. 
+如果您正在构建**技能**，请确保使用[Meta Editor]（https://raw.githack.com/MycroftAI/mycroft-skills/18.08/meta_editor.html）作为README.md文件。 **技能**列表是通过解析README.md文件生成的。
 
-# Skills Documentation
+# 技能文档
 
-If you want to write **Skills** for Mycroft, Documentation is available: 
+如果你想为Mycroft编写**技能**，可以使用以下文档：
 
 * [Mycroft Skills Kit](https://mycroft.ai/documentation/skills/msk/)
 * [Developing a new Skill](https://mycroft.ai/documentation/skills/introduction-developing-skills/)
@@ -21,10 +21,10 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 * [Mycroft Skills Manager](https://mycroft.ai/documentation/msm/)
 * [Mycroft Message Bus](https://mycroft.ai/documentation/message-bus/)
 
-# Available Skills
+# 可用技能
 
 The Skills list has now moved here: [https://mycroftai.github.io/mycroft-skills/](https://mycroftai.github.io/mycroft-skills/)
 
-# Support 
+# 支持
 
-Join us in the [~dev channel](https://chat.mycroft.ai/community/channels/dev) or [~skills channel](https://chat.mycroft.ai/community/channels/skills) on Mycroft Chat for assistance.
+加入[~dev频道]（https://chat.mycroft.ai/community/channels/dev）或[〜技能频道]（https://chat.mycroft.ai/community/channels/skills） Mycroft聊天寻求帮助。

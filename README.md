@@ -20,8 +20,8 @@ Mycroft生态系统**技能**的官方主页。 这些**技能**由MycroftAI团�
 
 # 可用技能
 
-The Skills list has now moved here: [https://mycroftai.github.io/mycroft-skills/](https://mycroftai.github.io/mycroft-skills/)
+可用技能在这里: [https://mycroftai.github.io/mycroft-skills/](https://mycroftai.github.io/mycroft-skills/)
 
 # 支持
 
-加入[~dev频道]（https://chat.mycroft.ai/community/channels/dev）或[〜技能频道]（https://chat.mycroft.ai/community/channels/skills） Mycroft聊天寻求帮助。
+加入[开发频道](https://chat.mycroft.ai/community/channels/dev)或[技能频道](https://chat.mycroft.ai/community/channels/skills)

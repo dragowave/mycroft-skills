@@ -7,7 +7,7 @@ Mycroft生态系统**技能**的官方主页。 这些**技能**由MycroftAI团�
 
 # 元编辑器
 
-如果您正在构建**技能**，请确保使用[Meta Editor]（https://raw.githack.com/MycroftAI/mycroft-skills/18.08/meta_editor.html）作为README.md文件。 **技能**列表是通过解析README.md文件生成的。
+如果您正在构建**技能**，请确保使用[Meta Editor](https://raw.githack.com/MycroftAI/mycroft-skills/18.08/meta_editor.html)作为README.md文件。 **技能**列表是通过解析README.md文件生成的。
 
 # 技能文档
 

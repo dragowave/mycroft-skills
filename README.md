@@ -1,6 +1,3 @@
-# Mycroft 技能仓
-![logo](https://avatars1.githubusercontent.com/u/14171097?v=4&s=200 "Logo")
-
 # 欢迎
 
 Mycroft生态系统**技能**的官方主页。 这些**技能**由MycroftAI团队和社区内的其他人员编写。
